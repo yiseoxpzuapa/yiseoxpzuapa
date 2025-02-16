@@ -1,4 +1,4 @@
-### hi im juggernaut Im Uh frontend..dev
+### hi im sewnie Im Uh frontend..dev
 
 ## Skills
 
