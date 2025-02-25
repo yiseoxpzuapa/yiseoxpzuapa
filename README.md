@@ -6,8 +6,9 @@
  <p align="center">
   <a href="https://skillicons.dev/" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=github,html,css,js,vscode,lua&theme=dark"
+      src="https://skillicons.dev/icons?i=github,html,css,js,vscode,lua,cpp&theme=dark"
     />
+   i kind of. have some other skills. but. those are my main skills, ok?
   </a>
 </p>
  </center>
