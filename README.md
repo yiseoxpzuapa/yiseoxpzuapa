@@ -8,8 +8,8 @@
     <img
       src="https://skillicons.dev/icons?i=github,html,css,js,vscode,lua,cpp&theme=dark"
     />
-   i kind of. have some other skills. but. those are my main skills, ok?
   </a>
+  <br>   i kind of. have some other skills. but. those are my main skills, ok?
 </p>
  </center>
  
