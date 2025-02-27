@@ -1,4 +1,4 @@
-### hi im sewnie Im Uh frontend..dev
+### sewnie. sewn. sewn. sewn. sewn. sewn. sewn,
 
 ## Skills
 
@@ -11,12 +11,12 @@
   </a>
   <br>   i kind of. have some other skills. but. those are my main skills, ok?
 </p>
- </center>
+  </center>
+ ## Social. Mediaaaaaa
+ <details>
+  https://x.com/sewnies
+  https://www.youtube.com/@sewnies/featured
+  https://www.roblox.com/users/7009510135/profile
+ </details>
  
- ## Most Used Coding Languages
  
- <center>
-  <details>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiseoxpzuapa&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-  </details>
- </center>
