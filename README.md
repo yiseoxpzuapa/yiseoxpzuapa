@@ -12,7 +12,7 @@
   <br>   i kind of. have some other skills. but. those are my main skills, ok?
 </p>
   </center>
- ## Social. Mediaaaaaa
+ Social. Mediaaaaaa
  <details>
   https://x.com/sewnies
   https://www.youtube.com/@sewnies/featured
