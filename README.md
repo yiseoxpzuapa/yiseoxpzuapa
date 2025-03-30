@@ -1,4 +1,4 @@
-### sewnie. sewn. sewn. sewn. sewn. sewn. sewn,
+I'm a vine... From haiti? Haitivine. Hey. I think I like that name
 
 ## Skills
 
